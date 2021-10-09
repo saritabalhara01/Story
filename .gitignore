@@ -1,0 +1,8 @@
+
+# do not add zip files
+*.zip
+
+# do not add logs
+logs/
+
+secrets.txt
